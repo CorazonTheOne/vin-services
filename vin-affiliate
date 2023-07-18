@@ -1,6 +1,6 @@
 {
-	"date": "03.07.2023",
-	"version": "1.0",
-	"changelog": "New License check",
-	"changefile": "add version.json"
+	"date": "18.07.2023",
+	"version": "1.1",
+	"changelog": "whitelist & use counter",
+	"changefile": "/all"
 }
