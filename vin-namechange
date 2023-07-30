@@ -1,6 +1,6 @@
 {
-	"date": "08.07.2023",
-	"version": "1.0",
-	"changelog": "",
-	"changefile": ""
+	"date": "30.07.2023",
+	"version": "1.2",
+	"changelog": "open via Trigger, Notify",
+	"changefile": "client.lua, server.lua, config.lua"
 }
