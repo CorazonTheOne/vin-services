@@ -1,6 +1,6 @@
 {
-	"date": "21.06.2023",
-	"version": "1.0",
+	"date": "01.08.2023",
+	"version": "1.2",
 	"changelog": "",
-	"changefile": ""
+	"changefile": "client/ALL, fxmanifest, fxap, server/ALL"
 }
