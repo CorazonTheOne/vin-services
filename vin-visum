@@ -1,6 +1,6 @@
 {
-	"date": "30.07.2023",
-	"version": "1.0",
-	"changelog": "",
-	"changefile": ""
+	"date": "25.08.2023",
+	"version": "1.2",
+	"changelog": "export for Visumlevel",
+	"changefile": "fxmanifest.lua, server/ALL, client/ALL"
 }
