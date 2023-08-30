@@ -1,6 +1,6 @@
 {
-	"date": "11.07.2023",
-	"version": "1.5",
-	"changelog": "Bug fixes and Performance Update",
-	"changefile": "server.lua, client.lua, config*"
+	"date": "30.08.2023",
+	"version": "1.7",
+	"changelog": "Custom.lua, Bug fixes",
+	"changefile": "server/ALL, client/ALL, fxmanifest, config/custom.lua"
 }
