@@ -1,6 +1,6 @@
 {
-	"date": "14.08.2023",
-	"version": "1.5",
+	"date": "17.10.2023",
+	"version": "1.7",
 	"changelog": "discord.gg/vin-services",
-	"changefile": "/ALL (HTML ausgenommen)"
+	"changefile": "client/ALL & server/ALL"
 }
