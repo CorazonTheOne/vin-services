@@ -1,6 +1,6 @@
 {
-	"date": "17.10.2023",
-	"version": "1.7",
-	"changelog": "discord.gg/vin-services",
+	"date": "26.10.2023",
+	"version": "1.8",
+	"changelog": "Vehiclekey function, Bug fix",
 	"changefile": "client/ALL & server/ALL"
 }
