@@ -1,6 +1,6 @@
 {
-	"date": "24.10.2023",
-	"version": "1.6",
-	"changelog": "Blacklist Fix",
-	"changefile": "server/ALL, client.lua"
+	"date": "29.10.2023",
+	"version": "1.8",
+	"changelog": "Security Fix",
+	"changefile": "server/ALL"
 }
