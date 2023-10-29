@@ -1,6 +1,6 @@
 {
-	"date": "17.10.2023",
-	"version": "1.9",
-	"changelog": "discord.gg/vin-services",
-	"changefile": "server/ALL, config/custom.lua, client/client.lua"
+	"date": "29.10.2023",
+	"version": "2.0",
+	"changelog": "Job Check Fix",
+	"changefile": "server/ALL, client/client.lua"
 }
