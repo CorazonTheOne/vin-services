@@ -1,6 +1,6 @@
 {
-	"date": "30.10.2023",
-	"version": "1.7",
-	"changelog": "Bug fix & Security Fix",
-	"changefile": "server/ALL, client/ALL"
+	"date": "29.11.2023",
+	"version": "1.8",
+	"changelog": "Bug fix [ESX]",
+	"changefile": "server/ALL, fxmanifest.lua"
 }
