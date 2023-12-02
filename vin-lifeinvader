@@ -1,6 +1,6 @@
 {
-	"date": "06.09.2023",
-	"version": "2.2",
-	"changelog": "Security fix",
-	"changefile": "server/ALL, client/ALL, s_config, c_config"
+	"date": "02.12.2023",
+	"version": "3.0",
+	"changelog": "UI changes, new features, ",
+	"changefile": "Change ALL Files"
 }
