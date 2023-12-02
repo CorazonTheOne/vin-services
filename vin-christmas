@@ -1,6 +1,6 @@
 {
-	"date": "01.12.2023",
-	"version": "2.0",
-	"changelog": "Bug Fixes, New Features, New Design",
-	"changefile": "fxmanifest.lua, Config.lua[NEW Features], server/ALL, client/ALL, html/ALL"
+	"date": "02.12.2023",
+	"version": "2.5",
+	"changelog": "Bug Fixes! IMPORTANT !",
+	"changefile": "server/ALL, client/ALL, html/app.js"
 }
