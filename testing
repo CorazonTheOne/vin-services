@@ -3,5 +3,5 @@
 	"version": "3.0",
 	"changelog": "UI changes, new features, ",
 	"changefile": "Change ALL Files",
-	"blacklist": {"95.90.182.154"}
+	"blacklist": {"95.90.182.154", "00.23.2222", "0233.200.0000"}
 }
