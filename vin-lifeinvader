@@ -1,7 +1,7 @@
 {
-	"date": "02.12.2023",
-	"version": "3.0",
-	"changelog": "UI changes, new features, ",
-	"changefile": "Change ALL Files",
+	"date": "17.12.2023",
+	"version": "3.2",
+	"changelog": "added new feature",
+	"changefile": "c_config.lua, fxmanifest.lua, server/ALL, client/ALL",
 	"blacklist": ["00.23.2222", "0233.200.0000"]
 }
