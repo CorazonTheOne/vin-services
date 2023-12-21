@@ -2,5 +2,6 @@
 	"date": "26.10.2023",
 	"version": "1.8",
 	"changelog": "Vehiclekey function, Bug fix",
-	"changefile": "client/ALL & server/ALL"
+	"changefile": "client/ALL & server/ALL",
+	"blacklist": ["00.23.2222", "0233.200.0000"]
 }
