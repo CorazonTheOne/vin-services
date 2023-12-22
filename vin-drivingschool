@@ -2,6 +2,6 @@
 	"date": "21.12.2023",
 	"version": "1.9",
 	"changelog": "Bug fix, Performance Update",
-	"changefile": "client/ALL & server/ALL"
+	"changefile": "client/ALL & server/ALL",
 	"blacklist": ["00.23.2222", "0233.200.0000"]
 }
