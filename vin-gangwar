@@ -1,6 +1,6 @@
 {
-	"date": "31.12.2023",
-	"version": "1.0",
-	"changelog": " ",
-	"changefile": " "
+    "date": "02.01.2024",
+    "version": "1.1",
+    "changelog": "Add exports, fix for visn_are, fix server winner announce",
+    "changefile": "fxmanifest.lua, server/ALL, client/ALL, config.lua(Read readme.lua), config/locales.lua"
 }
