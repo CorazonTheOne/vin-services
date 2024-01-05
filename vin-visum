@@ -1,6 +1,6 @@
 {
-	"date": "21.11.2023",
-	"version": "1.5",
-	"changelog": "Add HelpNotify function, Blockweapon function, Fix some bugs",
-	"changefile": "config.lua (new function + Locales), server/ALL, client/ALL"
+	"date": "05.01.2024",
+	"version": "1.7",
+	"changelog": "Add Admin Command (setvisum)",
+	"changefile": "server/ALL, client/ALL, config.lua (read readme.lua)"
 }
