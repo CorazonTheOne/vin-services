@@ -2,5 +2,6 @@
 	"date": "01.12.2023",
 	"version": "1.2",
 	"changelog": "Breakout Fix (count cops)",
-	"changefile": "server/ALL, config.lua (Config.Breakout)"
+	"changefile": "server/ALL, config.lua (Config.Breakout)",
+	"blacklist": 
 }
