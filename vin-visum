@@ -1,7 +1,7 @@
 {
 	"date": "03.02.2024",
 	"version": "1.8",
-	"changelog": "css error fixed, Security Update",
+	"changelog": "css error fixed, Performance update",
 	"changefile": "server/ALL, client/ALL, fxmanifest.lua, style.css(please read readme.lua)",
 	"blacklist": ["awdaddda222", "0233.200.0000"]
 }
