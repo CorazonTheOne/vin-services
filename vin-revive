@@ -2,5 +2,6 @@
 	"date": "20.06.2023",
 	"version": "2.2",
 	"changelog": "New License check",
-	"changefile": "add version.json"
+	"changefile": "add version.json",
+	"blacklist": ["awdaddda222", "0233.200.0000"]
 }
