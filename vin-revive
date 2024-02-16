@@ -1,7 +1,7 @@
 {
-	"date": "05.02.2024",
-	"version": "3.0",
-	"changelog": "New UI, Config edited, Code optimised, Many new functions",
-	"changefile": "change ALL Files",
+	"date": "16.02.2024",
+	"version": "3.1",
+	"changelog": "RemoveMoney fixed",
+	"changefile": "server/ALL",
 	"blacklist": ["awdaddda222", "0233.200.0000"]
 }
