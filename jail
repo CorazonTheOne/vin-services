@@ -1,7 +1,7 @@
 {
-	"date": "31.01.2024",
-	"version": "2.0",
-	"changelog": "Important security update",
-	"changefile": "server/ALL, client/ALL, fxmanifest.lua, Config.lua (new functions)",
+	"date": "05.03.2024",
+	"version": "2.1",
+	"changelog": "New functions, Changelog -> discord.gg/vin-services",
+	"changefile": "please read readme.lua",
 	"blacklist": ["awdaddda222", "0233.200.0000"]
 }
