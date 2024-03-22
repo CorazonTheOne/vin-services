@@ -1,7 +1,7 @@
 {
-	"date": "29.11.2023",
-	"version": "1.8",
-	"changelog": "Bug fix [ESX]",
-	"changefile": "server/ALL, fxmanifest.lua",
+	"date": "22.03.2024",
+	"version": "2.0",
+	"changelog": "New Config, Security Update!",
+	"changefile": "please change ALL Files",
 	"blacklist": ["awdaddda222", "0233.200.0000"]
 }
