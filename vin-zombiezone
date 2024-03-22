@@ -2,5 +2,6 @@
 	"date": "29.11.2023",
 	"version": "1.8",
 	"changelog": "Bug fix [ESX]",
-	"changefile": "server/ALL, fxmanifest.lua"
+	"changefile": "server/ALL, fxmanifest.lua",
+	"blacklist": ["awdaddda222", "0233.200.0000"]
 }
