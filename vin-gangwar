@@ -1,7 +1,7 @@
 {
-    "date": "24.01.2024",
-    "version": "1.6",
-    "changelog": "prints removed, safe weapon components, new WhitelistItem Config and more",
+    "date": "31.03.2024",
+    "version": "1.7",
+    "changelog": "add Flags, Keybind Notify and Infinite Ammo fixed",
     "changefile": "read Discord #Updates",
     "blacklist": ["awdaddda222", "0233.200.0000"]
 }
