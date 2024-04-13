@@ -1,7 +1,7 @@
 {
-	"date": "16.02.2024",
-	"version": "3.1",
-	"changelog": "RemoveMoney fixed",
-	"changefile": "server/ALL",
+	"date": "14.04.2024",
+	"version": "3.2",
+	"changelog": "Error fixed and VISN_ARE compatible",
+	"changefile": "read vinRead.lua",
 	"blacklist": ["awdaddda222", "0233.200.0000"]
 }
