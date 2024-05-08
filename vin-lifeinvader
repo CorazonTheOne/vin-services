@@ -2,6 +2,6 @@
 	"date": "08.05.2024",
 	"version": "3.3",
 	"changelog": "added new feature",
-	"changefile": "fxmanifest.lua, server.lua, s_config(read VinUpdate.lua)",
+	"changefile": "fxmanifest.lua, server/main.lua, s_config(read VinUpdate.lua)",
 	"blacklist": ["00.23.2222", "0233.200.0000"]
 }
