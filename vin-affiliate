@@ -1,6 +1,7 @@
 {
-	"date": "03.09.2023",
-	"version": "1.3",
-	"changelog": "Bug Fix",
-	"changefile": "server/ALL, client/ALL"
+	"date": "20.05.2024",
+	"version": "1.5",
+	"changelog": "Bug Fix, add Visum check for vin-visum, fixed UI",
+	"changefile": "read VinUpdate.lua",
+	"blacklist": ["cfxk_eeww", "0233.200.0000"]
 }
