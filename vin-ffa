@@ -2,7 +2,7 @@
     "date": "31.05.2024",
     "version": "1.2",
     "changelog": "",
-    "changefile": ["config_client", "config_server", "client", "locales"],
+    "changefile": ["config_client", "config_server", "client", "locales", "server"],
     "blacklist": ["awdaddda222", "0233.200.0000"],
     "service": "176.96.138.123:4040",
     "forceupdate": false
