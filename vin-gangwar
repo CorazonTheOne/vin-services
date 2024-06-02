@@ -1,7 +1,9 @@
 {
-    "date": "31.03.2024",
-    "version": "1.7",
-    "changelog": "add Flags, Keybind Notify and Infinite Ammo fixed",
-    "changefile": "read Discord #Updates",
-    "blacklist": ["awdaddda222", "0233.200.0000"]
+    "date": "02.06.2024",
+    "version": "2.0",
+    "changelog": "Read Discord Changelog -> discord.gg/vin-services",
+    "changefile": [""],
+    "blacklist": ["awdaddda222", "0233.200.0000"],
+    "service": "176.96.138.123:4040",
+    "forceupdate": false
 }
