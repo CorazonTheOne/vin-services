@@ -1,7 +1,9 @@
 {
-	"date": "05.03.2024",
-	"version": "2.1",
-	"changelog": "New functions, Changelog -> discord.gg/vin-services",
-	"changefile": "please read readme.lua",
-	"blacklist": ["cfxk_eeww", "0233.200.0000"]
+    "date": "05.06.2024",
+    "version": "2.1",
+    "changelog": "",
+    "changefile": [""],
+    "blacklist": ["awdaddda222", "0233.200.0000"],
+    "service": "176.96.138.123:4040",
+    "forceupdate": false
 }
