@@ -5,5 +5,5 @@
     "changefile": ["client", "server"],
     "blacklist": ["awdaddda222", "0233.200.0000"],
     "service": "176.96.138.123:4040",
-    "forceupdate": false
+    "forceupdate": true
 }
